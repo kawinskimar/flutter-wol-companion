@@ -5,13 +5,10 @@ import 'dart:convert';
 
 const JsonCodec json = const JsonCodec();
 
-final ThemeData _themeData = new ThemeData(
-  primarySwatch: Colors.deepOrange,
-);
-
 void main() {
   runApp(new MaterialApp(
-    theme: _themeData,
+    theme: new ThemeData(
+        primarySwatch: Colors.deepOrange, backgroundColor: Colors.white30),
     home: new HomePage(),
   ));
 }
@@ -56,71 +53,107 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return new DefaultTabController(
-      length: 3,
-      child: Scaffold(
-        appBar: AppBar(
-          bottom: TabBar(
-            tabs: [
-              Tab(text: "Arcana"),
-              Tab(text: "Outfits"),
-              Tab(text: "Relics"),
-            ],
-          ),
-          title: Text('Wizard of Legend Companion'),
-        ),
-        body: TabBarView(
-          children: [
-            new ListView.builder(
-                itemCount: arcana == null ? 0 : arcana.length,
-                itemBuilder: (BuildContext context, int index) {
-                  return new ExpansionTile(
-                      title: Text(arcana[index]['name']),
-                      initiallyExpanded: false,
-                      children: <Widget>[
-                        ListTile(title: Text(arcana[index]['effect'])),
-                        ListTile(title: Text(arcana[index]['enhanced']))
-                      ]);
-                }),
-            new ListView.builder(
-                itemCount: outfits == null ? 0 : outfits.length,
-                itemBuilder: (BuildContext context, int index) {
-                  return new ExpansionTile(
-                      title: Text(outfits[index]['name']),
-                      initiallyExpanded: false,
-                      children: <Widget>[
-                        ListTile(title: Text(outfits[index]['effects'][0])),
-                        ListTile(title: Text(outfits[index]['notes']))
-                      ]);
-                }),
-            new ListView.builder(
-                itemCount: relics == null ? 0 : relics.length,
-                itemBuilder: (BuildContext context, int index) {
-                  return new Card(
-                    margin: EdgeInsets.only(top: 2.0, bottom: .0),
-                    child: new Column(
-                      crossAxisAlignment: CrossAxisAlignment.stretch,
-                      children: <Widget>[
-                        Container(
-                          padding: EdgeInsets.all(5.0),
-                          child: Text(relics[index]['name'],
-                              style: new TextStyle(
-                                  fontSize: 20.0,
-                                  color: Colors.deepOrangeAccent)),
-                        ),
-                        Container(
-                            padding: EdgeInsets.all(5.0),
-                            child: Text(relics[index]['effect'])),
-                        Container(
-                            padding: EdgeInsets.fromLTRB(5.0, 3.0, 5.0, 5.0),
-                            child: Text(relics[index]['type'],
-                                style: TextStyle(fontStyle: FontStyle.italic)))
-                      ],
-                    ),
-                  );
-                })
-          ],
-        ),
-      ),
-    );
+        length: 3,
+        child: Scaffold(
+            appBar: AppBar(
+              bottom: TabBar(
+                tabs: [
+                  Tab(text: "Arcana"),
+                  Tab(text: "Outfits"),
+                  Tab(text: "Relics"),
+                ],
+              ),
+              title: Text('Wizard of Legend Companion'),
+            ),
+            body: TabBarView(children: [
+              new ListView.builder(
+                  itemCount: arcana == null ? 0 : arcana.length,
+                  itemBuilder: (BuildContext context, int index) {
+                    return new Card(
+                        margin: EdgeInsets.all(3.0),
+                        child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: <Widget>[
+                              Container(
+                                padding: EdgeInsets.all(5.0),
+                                child: Text(arcana[index]['name'],
+                                    style: new TextStyle(
+                                        fontSize: 20.0,
+                                        color: Colors.deepOrangeAccent)),
+                              ),
+                              Container(
+                                  padding: EdgeInsets.all(5.0),
+                                  child: Text(arcana[index]['effect'])),
+                              Container(
+                                  padding: EdgeInsets.all(5.0),
+                                  child: Text(
+                                      "Enhanced: ${arcana[index]['enhanced']}",
+                                      style: TextStyle(
+                                          fontWeight: FontWeight.bold))),
+                              Container(
+                                  padding: EdgeInsets.all(5.0),
+                                  child: Text(
+                                      "Slot: ${arcana[index]['slot']} | Type: ${arcana[index]['type']}",
+                                      style: TextStyle(
+                                          fontStyle: FontStyle.italic)))
+                            ]));
+                  }),
+              new ListView.builder(
+                  itemCount: outfits == null ? 0 : outfits.length,
+                  itemBuilder: (BuildContext context, int index) {
+                    return new Card(
+                        color: Colors.white,
+                        margin: EdgeInsets.all(3.0),
+                        child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: <Widget>[
+                              Container(
+                                padding: EdgeInsets.all(5.0),
+                                child: Text(outfits[index]['name'],
+                                    style: new TextStyle(
+                                        fontSize: 20.0,
+                                        color: Colors.deepOrangeAccent)),
+                              ),
+                              Container(
+                                  padding: EdgeInsets.all(5.0),
+                                  child: Text(outfits[index]['effects'])),
+                              Container(
+                                  padding:
+                                      EdgeInsets.fromLTRB(5.0, 3.0, 5.0, 5.0),
+                                  child: outfits[index]['notes'] == ""
+                                      ? null
+                                      : Text(outfits[index]['notes'],
+                                          style: TextStyle(
+                                              fontStyle: FontStyle.italic)))
+                            ]));
+                  }),
+              new ListView.builder(
+                  itemCount: relics == null ? 0 : relics.length,
+                  itemBuilder: (BuildContext context, int index) {
+                    return new Card(
+                        color: Colors.white,
+                        margin: EdgeInsets.all(3.0),
+                        child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: <Widget>[
+                              Container(
+                                padding: EdgeInsets.all(5.0),
+                                child: Text(relics[index]['name'],
+                                    style: new TextStyle(
+                                        fontSize: 20.0,
+                                        color: Colors.deepOrangeAccent)),
+                              ),
+                              Container(
+                                  padding: EdgeInsets.all(5.0),
+                                  child: Text(relics[index]['effect'])),
+                              Container(
+                                  padding:
+                                      EdgeInsets.fromLTRB(5.0, 3.0, 5.0, 5.0),
+                                  child: Text(relics[index]['type'],
+                                      style: TextStyle(
+                                          fontStyle: FontStyle.italic)))
+                            ]));
+                  })
+            ])));
   }
 }
