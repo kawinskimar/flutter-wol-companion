@@ -1,0 +1,1154 @@
+[
+  {
+    "effect": "Dash forward on a burst of air!",
+    "enhanced": "Creates shockwaves that buffet foes in your path!",
+    "name": "Air Burst",
+    "pool": "1",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Throw a disc of air into orbit around you!",
+    "enhanced": "Throws two discs at the same time!",
+    "name": "Air Spinner",
+    "pool": "3",
+    "slot": "Basic",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Rocket into the sky on an air jet before slamming into the ground to create a violent burst of wind!",
+    "enhanced": "Creates smaller wind bursts that ripples forward after impact!",
+    "name": "Airborne Slam",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Unleash a slow moving burst of air that slows and damages all nearby enemies!",
+    "enhanced": "Twister stops shortly after being unleashed but continues to spin in place!",
+    "name": "Breaking Twister",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Hurl a rapidly revolving air current that returns to you!",
+    "enhanced": "Creates an additional boomerang before returning to you!",
+    "name": "Cyclone Boomerang",
+    "pool": "1",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Summon a dragon formed of wind to draw in enemies before blasting them away!",
+    "enhanced": "Increases the blast area!",
+    "name": "Dragon Blast",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Summon a current of air that causes all incoming attacks to miss while you are moving or using basic arcana!",
+    "enhanced": "Increases movement speed and allows you to run over pits!",
+    "name": "Evading Zephyr",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Hold to charge up and release a stormy ball of wind that implodes at maximum charge!",
+    "enhanced": "Charges up twice as quickly!",
+    "name": "Furious Tempest",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Dash forward with such force that enemies in the area are pulled into your wake!",
+    "enhanced": "Creates a secondary burst on landing!",
+    "name": "Gust Burst",
+    "pool": "4",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Release a volley of piercing winds in a cone!",
+    "enhanced": "Fires additional projectiles!",
+    "name": "Gust Volley",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Designed by Virtuoso Michael Belloy, this arcana allows you to seize a foe and leap high into the air before crashing down!",
+    "enhanced": "Increases the distance at which you can grab foes!",
+    "name": "Heroic Leap",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Fire off a series of sound waves that stun any enemies they strike!",
+    "enhanced": "Increases the distance traveled!",
+    "name": "Mach Stunner",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Designed by Virtuoso Claire Astrid, this arcana allows you to confuse foes around you, causing them to attack each other!",
+    "enhanced": "Increases the confusion duration!",
+    "name": "Mentis Imperium",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Fly forward with a ring of tumbling winds that locks onto the first enemy struck!",
+    "enhanced": "Increases the tumbling duration!",
+    "name": "Rushing Typhoon",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Designed by Virtuoso Sean 'Ariamaki' Riedinger, this arcana allows you to lower active cooldowns and steal speed from enemies by blasting them with a burst of air!",
+    "enhanced": "Increases the cooldown reduction!",
+    "name": "Scales of Babylon",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Rush forward while unleashing a flurry of wind slashes!",
+    "enhanced": "Slashes are larger and more numerous!",
+    "name": "Shearing Chain",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Draw in foes with a ring of tumbling winds before striking them away!",
+    "enhanced": "Increases tumble duration and final blow knocks foes further away!",
+    "name": "Spiraling Typhoon",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Release a burst of air that drafts foes and stuns them against walls!",
+    "enhanced": "Destroys all enemy projectiles!",
+    "name": "Storm Draft",
+    "pool": "4",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Rapidly spin forward and pull nearby enemies into your wake!",
+    "enhanced": "Move and spin even faster, dealing more damage!",
+    "name": "Tearing Whirlwind",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Summon a ward of air that slows enemies and increases all air damage done in the area!",
+    "enhanced": "Ward area is increased and also increases fire damage done in the area!",
+    "name": "Ward of Winds",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Unleash a protective vortex of fierce winds!",
+    "enhanced": "Whirling duration increased!",
+    "name": "Whirling Tornado",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Conjure an agent of wind that buffets foes with whirling winds!",
+    "enhanced": "Agents move and attack more quickly!",
+    "name": "Whirling Wind Agent",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Unleash a quick salvo of cutting winds!",
+    "enhanced": "Projectiles pierce enemies but attack range is lowered!",
+    "name": "Wind Flurry",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Air"
+  },
+  {
+    "effect": "Summon arcs of slashing wind!",
+    "enhanced": "Final slash creates a piercing wind that negates projectiles!",
+    "name": "Wind Slash",
+    "pool": "1",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Air"
+  },
+  {
+    "effect": "Throws out an orb of primal chaos that erases the first enemy hit from existence! Enemies that cannot be erased will take heavy damage instead.",
+    "enhanced": "Not available",
+    "name": "Absolute Finale",
+    "pool": "",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Designed by Virtuoso Kaleb Daugherty, this arcana allows you teleport all nearby enemies into a chaos storm!",
+    "enhanced": "Not available",
+    "name": "Arcane Intervention",
+    "pool": "",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Create a chaotic rift to strike foes before compressing it and firing it forward!",
+    "enhanced": "Not available",
+    "name": "Chaos Crusher",
+    "pool": "",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Dash through a rift torn open by primal chaos!",
+    "enhanced": "Not available",
+    "name": "Chaotic Rift",
+    "pool": "",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Summon a beam of chaos energy!",
+    "enhanced": "Not available",
+    "name": "Distortion Beam",
+    "pool": "",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Designed by Virtuoso Nathan 'MortisXII' Cannell, this arcana allows you to impale all enemies in a line with a spear of chaos and drag them to you!",
+    "enhanced": "Not available",
+    "name": "Mortal Coil",
+    "pool": "",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Throw out a cluster of chaos orbs that explode on landing!",
+    "enhanced": "Not available",
+    "name": "Null Parade",
+    "pool": "",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Summon a legion of Chaos Knights that rush forth and attack enemies!",
+    "enhanced": "Not available",
+    "name": "Phantom Brigade",
+    "pool": "",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Chaos"
+  },
+  {
+    "effect": "Shield incoming attacks as you charge forward, stunning enemies in your path!",
+    "enhanced": "Increases the durability, damage, and speed of your aegis!",
+    "name": "Aegis Charge",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Summon a tunneling dragon that drives away foes!",
+    "enhanced": "Summons dual dragons that travel further!",
+    "name": "Dragon Dive",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Pummel foes with gigantic earth fists!",
+    "enhanced": "Becomes a single hit arcana with an even bigger fist!",
+    "name": "Earth Knuckles",
+    "pool": "1",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Conjure an agent of earth that crushes foes!",
+    "enhanced": "Agent has a double stomp!",
+    "name": "Earth Stomp Agent",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Form a protective ring of stone shields!",
+    "enhanced": "Summons additional shields!",
+    "name": "Earthen Aegis",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Hurl a giant stone axe into the air that crashes down on enemies!",
+    "enhanced": "Increases damage and crash area of axes!",
+    "name": "Earthquake Axe",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Cultivate a row of entwining vines that roots foes!",
+    "enhanced": "Vines poison any foes they root!",
+    "name": "Embracing Vines",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Mark foes with a series of rocky strikes that explode as you leap back!",
+    "enhanced": "Adds an extra strike to the rhythm!",
+    "name": "Fadeaway Rhythm",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Designed by Virtuoso Laurent Sweert, this arcana allows you to grasp all foes in the area with giant stone fists!",
+    "enhanced": "Starts off at max radius and crushes enemies more quickly!",
+    "name": "Grasping Earth",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Hurl a boulder that stuns foes!",
+    "enhanced": "Boulder explodes on impact and damages nearby foes!",
+    "name": "Knockout Boulder",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Generates a magnetic aura that causes basic arcana to hurl stone projectiles!",
+    "enhanced": "Instantly summons a ring of stones that briefly stuns enemies they strike!",
+    "name": "Magnetic Follow-up",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Unleash a cascade of obsidian daggers!",
+    "enhanced": "Daggers deal more damage and stun enemies!",
+    "name": "Obsidian Cascade",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Rupture the earth with rapidly tunneling vines to continually damage enemies in a line!",
+    "enhanced": "Increases rippling duration and distance covered by vines!",
+    "name": "Rippling Rupture",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Summon a pair of rocky buzzsaws that tear forward!",
+    "enhanced": "Summons an additional buzzsaw!",
+    "name": "Rock n' Roll",
+    "pool": "4",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Launch into the air and crash down on all nearby foes to stun them!",
+    "enhanced": "Launches even higher and summons rippling earth waves on landing!",
+    "name": "Seismic Entry",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Strike a boulder to shatter it into a ring of shrapnel!",
+    "enhanced": "Creates additional shrapnel!",
+    "name": "Shattering Strike",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Tear forward and leave behind a trail of earthen spikes!",
+    "enhanced": "Spikes continue to form even after dash is complete!",
+    "name": "Spike Track",
+    "pool": "4",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Designed by Virtuosos Shamrock63 and Slamuel, this arcana allows you to form a quartet of chess knights that leap to your defense!",
+    "enhanced": "Knights jump in place for a secondary shock after their initial leap!",
+    "name": "Stalwart Defenders",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Rapidly fire stones!",
+    "enhanced": "Reduces damage but shoots two stones at a time!",
+    "name": "Stone Shot",
+    "pool": "3",
+    "slot": "Basic",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Drive forward and rock enemies with a giant drill made of stone!",
+    "enhanced": "Adds an additional drill charge!",
+    "name": "Tectonic Drill",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Earth"
+  },
+  {
+    "effect": "Pulverize the ground to summon cascading rings of earth spikes!",
+    "enhanced": "Summons all rings simultaneously but deals less damage overall!",
+    "name": "Terra Ring",
+    "pool": "5",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Hurl bolas made of toxic vines to entangle and poison foes!",
+    "enhanced": "Bolas no longer stop upon hitting a foe!",
+    "name": "Toxic Bolas",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Tear forward while throwing behind a toxic bomb that poisons foes!",
+    "enhanced": "Throw an extra toxic bomb forward!",
+    "name": "Toxic Trap",
+    "pool": "3",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Form a ward of earth that periodically stuns foes and increases all earth damage done in the area!",
+    "enhanced": "Ward area is increased and also increases air damage done in the area!",
+    "name": "Ward of Stones",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Earth"
+  },
+  {
+    "effect": "Dash forward and pummel a foe with barrage of fiery punches!",
+    "enhanced": "Increases punch count!",
+    "name": "Blazing Blitz",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Fire"
+  },
+  {
+    "effect": "Spin forward while swinging a blazing whip of flames!",
+    "enhanced": "Increases flame radius!",
+    "name": "Blazing Lariat",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "Melee",
+    "type": "Fire"
+  },
+  {
+    "effect": "Dash forward, grabbing all enemies in your path before unleashing an onslaught of fireballs!",
+    "enhanced": "Increases fireball count!",
+    "name": "Blazing Onslaught",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Blast into the air and come crashing down into a fiery explosion!",
+    "enhanced": "Start the vault with an explosive bang!",
+    "name": "Blazing Vault",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Fire"
+  },
+  {
+    "effect": "Fling bouncing balls of fire!",
+    "enhanced": "Fireballs pass through enemies!",
+    "name": "Bouncing Blaze",
+    "pool": "4",
+    "slot": "Basic",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Call down a meteor from the skies!",
+    "enhanced": "Meteors crash down much quicker!",
+    "name": "Crashing Meteor",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Summon a torrent of fiery dragons!",
+    "enhanced": "Fires two dragons simultaneously and increases number of charges!",
+    "name": "Dragon Arc",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Fire a massive fireball that explodes on impact!",
+    "enhanced": "Increases the blast radius!",
+    "name": "Exploding Fireball",
+    "pool": "1",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Charge through enemies, marking them with a timed explosive!",
+    "enhanced": "Explosions burn enemies!",
+    "name": "Explosive Charge",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Fire"
+  },
+  {
+    "effect": "Ignite the ground to create a blazing trail of flames!",
+    "enhanced": "Wall forms quicker and extends further!",
+    "name": "Fire Wall",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Blast away enemies with a breath of fire!",
+    "enhanced": "Ignites all enemies it hits!",
+    "name": "Flame Breath",
+    "pool": "4",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Carve out a wave of flames that ignites all enemies in its path!",
+    "enhanced": "Cleave with both hands to create a wider wave that travels further!",
+    "name": "Flame Cleaver",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Fire off a fireball, followed by a flaming arrow that can be fused to release a burst of arrows!",
+    "enhanced": "Fusion releases even more arrows!",
+    "name": "Flame Fusion",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Blast enemies away with plumes of flames!",
+    "enhanced": "Executes quicker and affects a larger area!",
+    "name": "Flame Strike",
+    "pool": "1",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Fire"
+  },
+  {
+    "effect": "Rush forward and conjure a volley of accompanying flares!",
+    "enhanced": "Summons additional flares!",
+    "name": "Flare Rush",
+    "pool": "4",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Enter a burning rage that speeds up basic arcana!",
+    "enhanced": "Explodes when activated to burn foes in the area!",
+    "name": "Fuelled Berserk",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Ignite a halo of flares that home in on the nearest foe!",
+    "enhanced": "Summons additional flares and increases duration!",
+    "name": "Homing Flares",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Blast enemies away with a chain of explosions!",
+    "enhanced": "Final explosion ignites the area on fire!",
+    "name": "Ignition Drive",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Hold to charge up and release an expanding ball of fire that explodes at maximum charge!",
+    "enhanced": "Charges up twice as quickly!",
+    "name": "Raging Inferno",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Conjure an agent of fire that engages foes with a rapid barrage of fireballs!",
+    "enhanced": "Agents attack more often but deals less damage!",
+    "name": "Rapid Fire Agent",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Blast away enemies around you with a burning halo of flames!",
+    "enhanced": "Flames last longer, dealing more damage!",
+    "name": "Searing Crown",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Rush forward and leave flames in your wake!",
+    "enhanced": "Adds an explosion on landing that burns foes!",
+    "name": "Searing Rush",
+    "pool": "2",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Fire off a volley of arcing tracers that return to you!",
+    "enhanced": "Tracers are larger and more numerous!",
+    "name": "Tracer Barrage",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Form a ward of fire that damages enemies and increases all fire damage done in the area!",
+    "enhanced": "Ward area is increased and also increases water damage done in the area!",
+    "name": "Ward of Flames",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Fire"
+  },
+  {
+    "effect": "Generate a stationary sphere of arcing current!",
+    "enhanced": "Sphere is larger and has a longer duration!",
+    "name": "Arc Sphere",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Hold to charge up and release a devastating ball of lightning that shocks at maximum charge!",
+    "enhanced": "Charges up twice as quickly!",
+    "name": "Ball Lightning",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Release a charged orb that can be detonated to strike all nearby foes with lightning!",
+    "enhanced": "Greatly increases the orb's maximum area of effect!",
+    "name": "Bolt Claymore",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Direct a short stream of lightning!",
+    "enhanced": "Final burst is larger and shocks foes!",
+    "name": "Bolt Rail",
+    "pool": "1",
+    "slot": "Basic",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Conjure a spear of lightning that bounces between enemies!",
+    "enhanced": "Spear bounces more times and shocks for a longer duration!",
+    "name": "Bouncing Surge",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Jolt ahead, leaving behind electric orbs that are chained together after a short delay!",
+    "enhanced": "Lightning chains deal additional damage!",
+    "name": "Circuit Line",
+    "pool": "3",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Send out an electric orb that fires a continuous lightning stream at the first enemy it strikes!",
+    "enhanced": "Lightning stream pushes enemies back twice as far!",
+    "name": "Deferred Dynamo",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Generate a charged orb that syncs up with nearby orbs before releasing a stream of lightning!",
+    "enhanced": "Orbs fire both forwards and backwards!",
+    "name": "Ion Spike",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Generate a field of electricity that shocks enemies that you come into contact with!",
+    "enhanced": "Creates shocking pulses!",
+    "name": "Lightning Aspect",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Conjure an agent of lightning that assaults foes with a stream of lightning!",
+    "enhanced": "Lightning streams last longer and deal more damage!",
+    "name": "Line Shock Agent",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Designed by Virtuoso David Gottsegen, this arcana allows you to pull all nearby projectiles into an orbit around you!",
+    "enhanced": "All projectiles shock foes!",
+    "name": "Magsphere",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Ride a bolt of lightning to shock foes in the area!",
+    "enhanced": "Increases the number of strikes!",
+    "name": "Shock Assault",
+    "pool": "2",
+    "slot": "Signature",
+    "subtype": "Melee",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Jolt ahead and leave behind a line of shocking current!",
+    "enhanced": "Throws an additional shock line in front you!",
+    "name": "Shock Line",
+    "pool": "4",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Hold to charge up and release an explosion of electricity that shocks all foes in the area at maximum charge!",
+    "enhanced": "Nova charges up faster and has an increased radius!",
+    "name": "Shock Nova",
+    "pool": "4",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Throw out a wire of current that shocks any enemies that it comes into contact with!",
+    "enhanced": "Wire is longer and expands more quickly!",
+    "name": "Shock Wire",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Form a double weave of shocking sparks that slowly move outward!",
+    "enhanced": "Sparks fire a lightning stream back to you when they dissipate!",
+    "name": "Spark Array",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Jolt foes with a burst of electricity!",
+    "enhanced": "Final blow creates a shocking electric blast!",
+    "name": "Spark Contact",
+    "pool": "3",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Hurl an electrified star that shocks any enemy it strikes!",
+    "enhanced": "Stars shock for a longer duration!",
+    "name": "Star Bolt",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Throws out an anchor that generates a surge of lightning between you and the anchor!",
+    "enhanced": "Anchor lasts longer and creates more streams!",
+    "name": "Surge Anchor",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Volt into the sky before crashing down on a bolt of lightning to shock all foes in the area!",
+    "enhanced": "Creates a secondary aftershock!",
+    "name": "Thunder Drop",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Generate a series of lightning strikes that shock foes!",
+    "enhanced": "All strikes generate near simultaneously!",
+    "name": "Thundering Chain",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Generate a protective ring of charged orbs that ricochet from foe to foe!",
+    "enhanced": "Pinballs last longer and have more ricochet charges!",
+    "name": "Volt Pinball",
+    "pool": "5",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Dart forward and pin all foes in your path with a piercing lightning needle!",
+    "enhanced": "Dart forward quicker with a more powerful needle!",
+    "name": "Voltaic Needle",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Summon a lightning ward that shocks foes randomly and increases all lightning damage done in the area!",
+    "enhanced": "Ward area is increased and also increases earth damage done in the area!",
+    "name": "Ward of Lightning",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Lightning"
+  },
+  {
+    "effect": "Direct an arcing stream of water!",
+    "enhanced": "Unleashes a burst of ice on impact!",
+    "name": "Aqua Arc",
+    "pool": "1",
+    "slot": "Basic",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Unleash a torrent of water to blast away enemies!",
+    "enhanced": "Beam's width is increased!",
+    "name": "Aqua Beam",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Hold to charge up and release a rapidly spinning ball of water that creates an explosive deluge at maximum charge!",
+    "enhanced": "Charges up twice as quickly!",
+    "name": "Aqua Breaker",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Summon swirling currents of water that envelop you!",
+    "enhanced": "Unleashes a final burst of freezing ice!",
+    "name": "Aqua Vortex",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Throw out a burst of water that draws in foes before blasting into the sky and splashing down!",
+    "enhanced": "Splashdown creates additional water bursts!",
+    "name": "Binary Splashdown",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Water"
+  },
+  {
+    "effect": "Throw out a bubble of water that bounces every time it strikes an enemy or wall!",
+    "enhanced": "Increases bubble speed and number of times it can strike enemies!",
+    "name": "Bouncing Bubble",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Rapidly fire a stream of explosive bubbles!",
+    "enhanced": "Bubbles are larger and deal more damage!",
+    "name": "Bubble Barrage",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Conjure a rapidly revolving ring of icy blades!",
+    "enhanced": "Conjures additional blades and all blades fly outward when released!",
+    "name": "Cardice Prime",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Designed by Virtuoso Verdestrom, this arcana creates a tendril of water that binds and travels to any foes it hits!",
+    "enhanced": "Tendrils spin faster and deal more damage!",
+    "name": "Creeping Tendrils",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Water"
+  },
+  {
+    "effect": "Throw out a fan of frost daggers that freeze enemies!",
+    "enhanced": "Daggers fly further and pierce through enemies!",
+    "name": "Frost Fan",
+    "pool": "1",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Race forward while leaving behind a frozen decoy!",
+    "enhanced": "Leaves an extra decoy at the end of the dash!",
+    "name": "Frost Feint",
+    "pool": "2",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Lob a frozen decoy that lures in foes and giant sharks alike!",
+    "enhanced": "Lures a larger shark for increased damage!",
+    "name": "Frozen Bait",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Dash forward and conjure a colossal frozen fist to strike foes!",
+    "enhanced": "Fist explodes and fires off a cone of ice shards!",
+    "name": "Glacial Cross",
+    "pool": "3",
+    "slot": "Signature",
+    "subtype": "Melee",
+    "type": "Water"
+  },
+  {
+    "effect": "Pierce foes with conjured ice daggers!",
+    "enhanced": "Throws out a piercing dagger on the final strike!",
+    "name": "Ice Dagger",
+    "pool": "4",
+    "slot": "Basic",
+    "subtype": "Melee",
+    "type": "Water"
+  },
+  {
+    "effect": "Summon a trio of seekers that home in on and freeze nearby enemies!",
+    "enhanced": "Summons an additional seeker!",
+    "name": "Ice Seekers",
+    "pool": "2",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Conjure a spear of ice that impales foes and freezes them against walls!",
+    "enhanced": "Spear is larger, moves faster, and deals more damage!",
+    "name": "Ice Spear",
+    "pool": "1",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Summon a storm of hail and ice shards that rains down on foes!",
+    "enhanced": "Increases storm size and duration!",
+    "name": "Perfect Storm",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Conjure a series of icicles that cascade out and return to you!",
+    "enhanced": "Icicles travel further!",
+    "name": "Rebounding Icicles",
+    "pool": "5",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Conjure snowflake chakrams that orbit outwards!",
+    "enhanced": "Chakrams orbit back inwards after expanding!",
+    "name": "Snowflake Chakrams",
+    "pool": "4",
+    "slot": "Signature",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Pull in enemies with a series of water balls before blasting them away with a massive deluge!",
+    "enhanced": "Summons an additional water ball to shield you while casting!",
+    "name": "Tidal Blast",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Form a ward of frost that periodically freezes foes and increases all water damage done in the area!",
+    "enhanced": "Ward area is increased and also increases lightning damage done in the area!",
+    "name": "Ward of Frost",
+    "pool": "5",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Fire off a prison of water that envelops the first enemy it strikes!",
+    "enhanced": "Gain an extra prison charge and increases the prison's speed!",
+    "name": "Water Prison",
+    "pool": "3",
+    "slot": "Standard",
+    "subtype": "",
+    "type": "Water"
+  },
+  {
+    "effect": "Conjure an agent of water that douses foes with a spread of water blobs!",
+    "enhanced": "Adds more water blobs for a wider spread shot!",
+    "name": "Water Pulse Agent",
+    "pool": "4",
+    "slot": "Standard",
+    "subtype": "Melee",
+    "type": "Water"
+  },
+  {
+    "effect": "Race forward while enveloped in a watery globe that briefly shields you!",
+    "enhanced": "Increases shield durability!",
+    "name": "Wave Front",
+    "pool": "3",
+    "slot": "Dash",
+    "subtype": "",
+    "type": "Water"
+  }
+]

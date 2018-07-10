@@ -1,0 +1,1064 @@
+[
+    {
+        "effect": "Enemies have less health, but enemy damage is increased!",
+        "name": "Abhorrent Cologne",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "A percentage of damage taken charges your signature arcana!",
+        "name": "Absorption Coil",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases ferocity of your burn status effects!",
+        "name": "Agni's Sparkler",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Receive signature charge when healed!",
+        "name": "Albert's Formula",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "All Chaos Gems gained during the Chaos Trials are transmuted into gold!",
+        "name": "Alchemist's Stone",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases all damage dealt!",
+        "name": "Amulet of Sundering",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases critical hit chance!",
+        "name": "Analytical Monocle",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Damage and stuns are increased but movement speed is reduced for each cursed relic owned!",
+        "name": "Anchor of Burden",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Your charged signature arcana deals more damage every time you use it!",
+        "name": "Ancient Fountain Pen",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Adds a small chance to evade attacks!",
+        "name": "Antiquated Tabi",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "All gold costs for arcana are discounted!",
+        "name": "Arcana Rewards Card",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Grants a significant boost in armor! Every hit taken reduces gold count.",
+        "name": "Armor of Greed",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases armor while at low health!",
+        "name": "Armor of Resolve",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases critical hit damage!",
+        "name": "Assassin's Blade",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases critical hit chance at low health!",
+        "name": "Auditor's Talisman",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases resistance to earth based attacks!",
+        "name": "Auger of Poetry",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Damage and movement speed is increased while signature arcana is charged!",
+        "name": "Autograph Pad",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases lightning damage!",
+        "name": "Battery of Taranis",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases damage dealt for a short while after taking damage!",
+        "name": "Berserker's Axe",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Damage increased while at low health!",
+        "name": "Berserker's Helm",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Destroying an enemy projectile grants signature charge energy!",
+        "name": "Bladed Buckler",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Summons a sprite that slows enemies!",
+        "name": "Blasting Sprite Aura",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Defeating enemies grants a chance to temporarily add unlimited charges to your movement arcana!",
+        "name": "Boots of Frenzy",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Pressing forward into an attack immediately before impact allows you to guard the attack!",
+        "name": "Bracers of the Beast",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Enemy max health is lowered, but your health is lowered as well!",
+        "name": "Broken Plague Flask",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Gets heavier as you progress through the trials. Drop from inventory to open.",
+        "name": "C-99 Piggy Bank",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases armor for a short duration after taking damage!",
+        "name": "Calcifying Bonemail",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Adds a chance to evade while at low health!",
+        "name": "Calvin's Sandy Shoes",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Equipping arcana of differing elements increases damage!",
+        "name": "Captain's Ring",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases damage based on how much of the map you have revealed! Damage increase lasts for the entire trial!",
+        "name": "Cartographer's Quill",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Reveals health bars for all enemies in the Chaos Trials!",
+        "name": "Chaos Scanner",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Adds a chance to charm enemies when taking damage!",
+        "name": "Charming Teddy Bear",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Summons an aura that damages nearby enemies!",
+        "name": "Cobalt Firestone",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Basic arcana have an extra combo!",
+        "name": "Combo Gloves",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "All Rogues and Archers have their spells limited! Only one Conqueror item can be in effect at a time.",
+        "name": "Conqueror's Belt",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "All Mages and Summoners have their spells limited! Only one Conqueror item can be in effect at a time.",
+        "name": "Conqueror's Cloak",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "All Knights and Lancers have their spells limited! Only one Conqueror item can be in effect at a time.",
+        "name": "Conqueror's Helmet",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "After evading an attack, all of your attacks will be critical hits for a short duration!",
+        "name": "Covert Ops Mask",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Critical hit chance is increased for you and all enemies!",
+        "name": "Crimson Clover",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Makes you believe all your attacks result in critical hits!",
+        "name": "Critical Placebos",
+        "pool": "",
+        "type": "Doctor"
+    },
+    {
+        "effect": "Damage taken is expended from your signature meter while you have sufficient charge to shield the attack!",
+        "name": "Cushioned Flip-flops",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases damage based on how much gold you currently have!",
+        "name": "Dagger of Midas",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Designed by Artisan Mathosse Feadur, this relic triples the critical hit chance for all melee arcana!",
+        "name": "Dark Katana",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "Enemy projectiles move slower, giving you more time to react!",
+        "name": "Dated Sunglasses",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Destroys all projectiles in the area when hit by a projectile!",
+        "name": "Deafening Cymbals",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases the duration of buff arcana!",
+        "name": "Demi's Teapot",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Defeating foes lowers active cooldowns!",
+        "name": "Destructive Abacus",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases potency of your poison status effects!",
+        "name": "Devi's Bug Spray",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Adds a small chance of dealing massive damage with your critical hits!",
+        "name": "Dice of the Nemesis",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increase basic arcana damage! All other damage decreased.",
+        "name": "Double Edged Cestus",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Reduces cooldowns by half but receive double damage!",
+        "name": "Double Toil",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Deal double damage but receive double damage!",
+        "name": "Double Trouble",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases fire and lightning arcana damage, but receive more damage from water and earth attacks!",
+        "name": "Ebon Wolf's Cloak",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Using a dash arcana immediately after another arcana lowers cooldowns for all arcana of the same element as your dash!",
+        "name": "Elemental Pointes",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Remaining motionless for a short time causes you to disappear from sight!",
+        "name": "Elven Ears",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Designed by Artisan Tacobowl8, this relic allows you to look quite dashing as you gallop to max speed with ease!",
+        "name": "Equestricap",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases armor!",
+        "name": "Euphie's Shawl",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Basic arcana chains are completed automatically!",
+        "name": "Evening Gloves",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "Allows you to destroy enemy projectiles with melee basic arcana!",
+        "name": "Flak Gauntlet",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Allows you to triple dash but lowers movement speed!",
+        "name": "Flashy Boots",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Randomly empowers an arcana at the beginning of each stage!",
+        "name": "Fortune Cookie",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Summons a sprite that freezes enemies! Only one sprite can be active at any time.",
+        "name": "Freezing Sprite Naya",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increase damage and movement speed when you're with a true friend!",
+        "name": "Friendship Bracelet",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Prevents freeze status effect!",
+        "name": "Fuzzy Handwarmers",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases earth damage!",
+        "name": "Gaia's Shovel",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases max health!",
+        "name": "Giant's Heart",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Damage increased but max health is reduced!",
+        "name": "Glass Cannon",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increase gold gain for all wizards! Multiple gloves do not stack.",
+        "name": "Glove of Midas",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases armor but store prices are increased!",
+        "name": "Golden Armor of Envy",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases damage but store prices are increased!",
+        "name": "Golden Saber of Envy",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases the distances traveled by dash arcana!",
+        "name": "Greased Boots",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases the damage of summoned agents!",
+        "name": "Grimoire of Ruin",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Prevents poison status effect!",
+        "name": "Gummy Vitamins",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Receive a discount whenever you purchase potions from the merchant!",
+        "name": "Health Care Card",
+        "pool": "",
+        "type": "Doctor"
+    },
+    {
+        "effect": "Increases armor for each relic held!",
+        "name": "Heavy Travel Jacket",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Revive with low health when defeated but consumes half of current health when picked up! This relic is destroyed on use.",
+        "name": "Horned Halo",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Briefly hover over pits!",
+        "name": "Hummingbird Feather",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increase damage against foes that are inflicted with a status ailment.",
+        "name": "Hunter's Stiletto",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Signature charges faster at low health!",
+        "name": "Hyperbolic Train",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "All arcana are empowered when at full health!",
+        "name": "Idealist's Mirror",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases fire damage!",
+        "name": "Ifrit's Matchstick",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "Summons a sprite that burns enemies! Only one sprite can be active at any time.",
+        "name": "Igniting Sprite Vesa",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases duration of your shock status effects!",
+        "name": "Indra's Copper Pipe",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Signature charge stays active until used!",
+        "name": "Infinity Marble",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "A crest presented only to those who have cleared the Chaos Trials!",
+        "name": "Insignia of Legend",
+        "pool": "",
+        "type": "Misc"
+    },
+    {
+        "effect": "Picking up chaos gems heals for a small amount. Excludes gems collected from Council members.",
+        "name": "Jewelry Box",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Gain gold when defeating consecutive enemies without taking damage!",
+        "name": "Journal of Midas",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "When taking damage that would defeat you, gain full signature charge and briefly become immune to defeat!",
+        "name": "Kali's Flower Diadem",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Regain full health every time an exit portal is used! Max health is reduced and health potions have no effect.",
+        "name": "Large Red Button",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Evade all attacks while dashing!",
+        "name": "Leemo's Leaf",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Release a burst of lightning when taking damage!",
+        "name": "Lei's Drum",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Reduces damage taken to a maximum of 10% of max health!",
+        "name": "Limited Edition Robe",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Summons an aura that freezes nearby enemies.",
+        "name": "Lotus Froststone",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Memorizes the last three attacks taken and reduces damage from attacks of the same type!",
+        "name": "Memory Chainmail",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increase damage based on number of relics in inventory.",
+        "name": "Merchant's Cart",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases movement speed!",
+        "name": "Mercury's Sandals",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases healing received from all sources!",
+        "name": "Messy Prescription",
+        "pool": "",
+        "type": "Doctor"
+    },
+    {
+        "effect": "Summons a shield that reflects one projectile!",
+        "name": "Mirror Shield",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "A ticket to Lanova Museum's newly opened Chaos Trials exhibit!",
+        "name": "Museum Ticket",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases knockback when striking foes!",
+        "name": "Mystic Monopole",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Adds a chance to slow foes!",
+        "name": "Nerite Shell",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Holding seven lightning arcana increases critical chance! All arcana shocks foes!",
+        "name": "Neve's Citrine",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Holding seven earth arcana increase health and armor and lowers stun and knockback!",
+        "name": "Neve's Emerald",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Holding seven air arcana increases movement speed and evasion. All arcana slows foes!",
+        "name": "Neve's Quartz",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Holding seven fire arcana increases damage! All arcana burns foes!",
+        "name": "Neve's Ruby",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Holding seven water arcana reduces all cooldowns and increases healing!",
+        "name": "Neve's Sapphire",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Adds a chance that an arcana will not go on cooldown after use!",
+        "name": "Nocturnal Sundial",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Adds a significant chance to evade attacks but take double damage!",
+        "name": "Nog's Heavenly Boots",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Adds a chance to poison foes!",
+        "name": "Noxious Dappercap",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Immediately receive a large sum of gold! All gold gained, with interest, will go toward paying off this debt.",
+        "name": "Ominous Loan Note",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Expend all gold at the start of each stage and heal for a fraction of the expended amount.",
+        "name": "Overpriced Insurance",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Your attacks on council members are more pun-ishing! Enemy attacks pack an extra pun-ch.",
+        "name": "Paronomasicon",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "On clearing the floor, receive a heal based on the map reveal percentage.",
+        "name": "Pathfinder's Knapsack",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Reveals the layout and main points of interest of the Chaos Trials!",
+        "name": "Pathfinder's Map",
+        "pool": "3",
+        "type": "Misc"
+    },
+    {
+        "effect": "Revive with low health when defeated! Hat can also create health orbs when dropped. This relic is destroyed on use.",
+        "name": "Pazu's Favorite Hat",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Signature damage, charge rate, and decay rate increased!",
+        "name": "Perfect Time Crystal",
+        "pool": "",
+        "type": "Offense"
+    },
+    {
+        "effect": "Adds a chance to freeze foes!",
+        "name": "Permafrost Cube",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Adds a chance to burn foes!",
+        "name": "Phoenix Talon",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Designed by Artisan PerdyDarnSavvy, this relic activates when taking damage at low health and briefly removes the cooldown on all arcana!",
+        "name": "Phyyrnx's Hourglass",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Summons a sprite that poisons enemies! Only one sprite can be active at any time.",
+        "name": "Plaguing Sprite Dria",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases fire and ice damage! Adds a chance to freeze and burn foes to fire and ice arcana, respectively.",
+        "name": "Poem of Fiery Rime",
+        "pool": "",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases the number of summoned agents, but lowers their health!",
+        "name": "Pop-up Primer",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Evade all critical hits!",
+        "name": "Puffy Parka",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Adds a chance that an item purchased in the Chaos Trials will be free of charge.",
+        "name": "Raffle Ticket",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Health orbs drop more frequently!",
+        "name": "Raspberry Cookie Box",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Releases a grove of rooting vines when taking damage!",
+        "name": "Reactive Vinemail",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Using a fully charged signature arcana heals you instead of producing a signature spell!",
+        "name": "Regenerative Inkwell",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Your projectiles destroy any other projectiles they strike!",
+        "name": "Reinforced Bracers",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "All gold costs for relics are discounted!",
+        "name": "Relic Rewards Card",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Regain a small amount of health when teleporting to the next area!",
+        "name": "Renewing Potion Vial",
+        "pool": "",
+        "type": "Doctor"
+    },
+    {
+        "effect": "Increases resistance to fire based attacks!",
+        "name": "Resolute Svalinn",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Gain a shield every time a charged signature is not activated and times out.",
+        "name": "Ring of Recycling",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Adds more uses to all multi-use arcana!",
+        "name": "Ring of Reserves",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Reduces all cooldowns!",
+        "name": "Roxel's Pendulum",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "Equipping arcana of the same element increases damage!",
+        "name": "Royal Flush",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases air damage!",
+        "name": "Rudra's Pinwheel",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "You can no longer be interrupted while casting an arcana!",
+        "name": "Sano's Headband",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Sacrifice all standard arcana in your hand to revive from defeat!",
+        "name": "Scissors of Vitality",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Your signature will take longer to charge, but can now be used twice on a single charge!",
+        "name": "Secret Wild Card",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases damage but signature can no longer be charged!",
+        "name": "Sharpened Stylus",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases water damage!",
+        "name": "Shiva's Water Bottle",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "All melee basic arcana have a secondary hit that deals reduced damage!",
+        "name": "Sidewinder's Badge",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases the activation speed of arcana but slows movement speed!",
+        "name": "Silver Spinning Top",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Not using arcana for a short period of time causes your next spell to be a critical hit!",
+        "name": "Singing Bowl",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Designed by Artisan Steven Wu, this relic increases all damage for every enemy defeated, but loses effectiveness when taking damage.",
+        "name": "Sinister Ledger",
+        "pool": "2",
+        "type": "Offense"
+    },
+    {
+        "effect": "Summons an aura that calls down lightning on nearby enemies.",
+        "name": "Sleepy Thunderstone",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Summons a sprite that shocks enemies! Only one sprite can be active at any time.",
+        "name": "Sparking Sprite Etra",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Defeated enemies have a chance to explode and freeze nearby enemies!",
+        "name": "Special Snowflake",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increase movement speed everytime an arcana is used! Speed is increased for each arcana on cooldown!",
+        "name": "Spell Thief's Socks",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Using an arcana of a different element reduces the cooldown of the previously used arcana.",
+        "name": "Spice Rack",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Regenerate health while at critically low health! Max health is reduced.",
+        "name": "Spiked Emergency Kit",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "All fire arcana cause burning but take double damage from water spells! Second half of the Poem of Fiery Rime.",
+        "name": "Stanza of Flames",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increases ice damage! First half of the Poem of Fiery Rime.",
+        "name": "Stanza of Frost",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Briefly become invulnerable after taking damage in quick succession!",
+        "name": "Stygian Turtle Shell",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Taking damage increases your max health up to a certain limit!",
+        "name": "Super Carrot Cake",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Prevents burn status effect!",
+        "name": "Super Sunscreen",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "The relic and arcana stores will instantly restock after purchase! Health potions are of short supply and will not be restocked.",
+        "name": "Supply Crate",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Signature charge no longer decays while building up!",
+        "name": "Surefire Rocket",
+        "pool": "1",
+        "type": "Misc"
+    },
+    {
+        "effect": "When healed for more than your maximum health, gain a shield equal to half of the excess heal amount.",
+        "name": "Takeout Box",
+        "pool": "4",
+        "type": "Defense"
+    },
+    {
+        "effect": "Following up a basic arcana with another arcana increases its critical hit chance!",
+        "name": "Tapping Gloves",
+        "pool": "4",
+        "type": "Offense"
+    },
+    {
+        "effect": "All heals increase your max health up to a certain limit!",
+        "name": "Tea of Mercy",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Gain gold when taking damage!",
+        "name": "Tears of Midas",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Adds a chance to shock foes!",
+        "name": "Tesla Coil",
+        "pool": "1",
+        "type": "Offense"
+    },
+    {
+        "effect": "Every point of damage taken adds a page to this thesis. Every 200 pages reduces all damage taken by 1. (Maximum 1000 pages)",
+        "name": "Thesis on Defense",
+        "pool": "3",
+        "type": "Defense"
+    },
+    {
+        "effect": "Increases resistance to water based attacks!",
+        "name": "Three Gorges Bulwark",
+        "pool": "2",
+        "type": "Defense"
+    },
+    {
+        "effect": "Reduces max health but increases max health for each enemy defeated!",
+        "name": "Tiny Crocodile Heart",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Increase armor but decrease damage!",
+        "name": "Tortoise Shield",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Designed by Artisan Curt 'Tozy' Toczydlowski, this relic reduces cooldowns but also reduces signature charge rate!",
+        "name": "Tozy's Pocket Watch",
+        "pool": "2",
+        "type": "Misc"
+    },
+    {
+        "effect": "Arcana of matching elements increases resistance to that element! Requires two or more arcana of the same element.",
+        "name": "Tracking Suit",
+        "pool": "5",
+        "type": "Defense"
+    },
+    {
+        "effect": "Rainbows!",
+        "name": "Unicorn Tail",
+        "pool": "5",
+        "type": "Misc"
+    },
+    {
+        "effect": "Regenerate health every time you land a critical hit!",
+        "name": "Vampire's Eyeglasses",
+        "pool": "1",
+        "type": "Defense"
+    },
+    {
+        "effect": "Defeating enemies regenerates health but max health is reduced!",
+        "name": "Vampire's Fangs",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Signature charge rate and decay are increased dramatically but charged signature damage is reduced! Shell of the Perfect Time Crystal.",
+        "name": "Volatile Gemstone",
+        "pool": "",
+        "type": "Cursed"
+    },
+    {
+        "effect": "Enables you to purchase items with health when you don't have sufficient gold.",
+        "name": "Wallet of Vigor",
+        "pool": "4",
+        "type": "Misc"
+    },
+    {
+        "effect": "Increases the damage of your signature arcana! Core of the Perfect Time Crystal.",
+        "name": "Wanderer's Mechanism",
+        "pool": "3",
+        "type": "Offense"
+    },
+    {
+        "effect": "Adds a chance that enemies will explode when defeated!",
+        "name": "Whimsical Explodium",
+        "pool": "5",
+        "type": "Offense"
+    },
+    {
+        "effect": "Increases the duration of summoned agents!",
+        "name": "Yuna's Storybook",
+        "pool": "3",
+        "type": "Misc"
+    }
+]

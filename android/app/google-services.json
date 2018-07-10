@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473951183398",
+    "firebase_url": "https://wizard-of-legend-companion.firebaseio.com",
+    "project_id": "wizard-of-legend-companion",
+    "storage_bucket": "wizard-of-legend-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473951183398:android:c703de95d420612e",
+        "android_client_info": {
+          "package_name": "com.example.wizardoflegendcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473951183398-kqn31h1r0dke4770p5bjhl5qj9uvvhr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnKWdvFvYU8VIH2Xo-WK5rjZyfxUvepWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

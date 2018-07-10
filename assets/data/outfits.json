@@ -1,0 +1,106 @@
+[
+    {
+        "effects": [
+            "5% max health increase",
+            "8% run speed increase",
+            "5% damage increase",
+            "6% crit chance increase"
+        ],
+        "name": "Hope",
+        "notes": "Has no effect until you unlock the Vigor, Venture, Pace, Awe, and Rule outfits."
+    },
+    {
+        "effects": [
+            "5% max health increase",
+            "8% run speed increase",
+            "4% armor increase",
+            "5% evade chance increase"
+        ],
+        "name": "Patience",
+        "notes": "Has no effect until you unlock the Vigor, Venture, Grit, Shift, and Tempo outfits."
+    },
+    {
+        "effects": [
+            "10% max health increase",
+            "+1 defense"
+        ],
+        "name": "Vigor",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "8% armor increase",
+            "+1 defense"
+        ],
+        "name": "Grit",
+        "notes": "Armor and Defense are not the same stats."
+    },
+    {
+        "effects": [
+            "12% cooldown decrease",
+            "8% run speed increase"
+        ],
+        "name": "Tempo",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "16% run speed increase",
+            "5% evade chance increase"
+        ],
+        "name": "Pace",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "10% evade chance increase",
+            "6% crit chance increase"
+        ],
+        "name": "Shift",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "12% crit chance increase",
+            "20% crit damage increase"
+        ],
+        "name": "Awe",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "10% damage increase",
+            "4% armor increase"
+        ],
+        "name": "Rule",
+        "notes": ""
+    },
+    {
+        "effects": [
+            "10% damage increase",
+            "16% run speed increase",
+            "12% cooldown decrease",
+            "40% max health decrease"
+        ],
+        "name": "Venture",
+        "notes": "Becomes available for purchase after defeating a council member for the first time. If Savile is used in the trials, max health will not be affected."
+    },
+    {
+        "effects": [
+            "Reduces max health to 1",
+            "Shields disabled"
+        ],
+        "name": "Pride",
+        "notes": "Available for purchase upon defeating Master Sura."
+    },
+    {
+        "effects": [
+            "5% max health increase",
+            "12% run speed increase",
+            "8% evade chance increase",
+            "8% cooldown decrease"
+        ],
+        "name": "Savile Special",
+        "notes": "Purchased from Savile in the Plaza for 5 gems. This alteration will overwrite all other effects from the outfit you are currently wearing. Pride outfit cannot be modified. This effect will disappear after your next run, and the outfit will return to normal."
+    }
+]
