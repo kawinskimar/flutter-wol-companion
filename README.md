@@ -1,6 +1,6 @@
-# wizard_of_legend_companion
+# Wizard of Legend Companion
 
-A new Flutter project.
+WoL Companion app built using Flutter.
 
 ## Getting Started
 
