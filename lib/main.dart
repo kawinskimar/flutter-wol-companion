@@ -2,13 +2,17 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:async' show Future;
 import 'dart:convert';
+import 'package:loader_search_bar/loader_search_bar.dart';
 
 const JsonCodec json = const JsonCodec();
 
 void main() {
   runApp(new MaterialApp(
     theme: new ThemeData(
-        primarySwatch: Colors.deepOrange, backgroundColor: Colors.white30),
+        brightness: Brightness.light,
+        primaryColor: Colors.red[800],
+        accentColor: Colors.red[200],
+        scaffoldBackgroundColor: Colors.red[100]),
     home: new HomePage(),
   ));
 }
@@ -56,6 +60,12 @@ class _HomePageState extends State<HomePage> {
         length: 3,
         child: Scaffold(
             appBar: AppBar(
+              actions: <Widget>[
+                new IconButton(
+                  icon: new Icon(Icons.search),
+                  onPressed: () {},
+                )
+              ],
               bottom: TabBar(
                 tabs: [
                   Tab(text: "Arcana"),
@@ -65,7 +75,10 @@ class _HomePageState extends State<HomePage> {
               ),
               title: Text('Wizard of Legend Companion'),
             ),
-            body: TabBarView(children: [
+            body: Stack(
+              children:[
+                
+                TabBarView(children: [
               new ListView.builder(
                   itemCount: arcana == null ? 0 : arcana.length,
                   itemBuilder: (BuildContext context, int index) {
@@ -78,8 +91,7 @@ class _HomePageState extends State<HomePage> {
                                 padding: EdgeInsets.all(5.0),
                                 child: Text(arcana[index]['name'],
                                     style: new TextStyle(
-                                        fontSize: 20.0,
-                                        color: Colors.deepOrangeAccent)),
+                                        fontSize: 20.0, color: Colors.black)),
                               ),
                               Container(
                                   padding: EdgeInsets.all(5.0),
@@ -102,7 +114,6 @@ class _HomePageState extends State<HomePage> {
                   itemCount: outfits == null ? 0 : outfits.length,
                   itemBuilder: (BuildContext context, int index) {
                     return new Card(
-                        color: Colors.white,
                         margin: EdgeInsets.all(3.0),
                         child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
@@ -111,8 +122,7 @@ class _HomePageState extends State<HomePage> {
                                 padding: EdgeInsets.all(5.0),
                                 child: Text(outfits[index]['name'],
                                     style: new TextStyle(
-                                        fontSize: 20.0,
-                                        color: Colors.deepOrangeAccent)),
+                                        fontSize: 20.0, color: Colors.black)),
                               ),
                               Container(
                                   padding: EdgeInsets.all(5.0),
@@ -131,7 +141,6 @@ class _HomePageState extends State<HomePage> {
                   itemCount: relics == null ? 0 : relics.length,
                   itemBuilder: (BuildContext context, int index) {
                     return new Card(
-                        color: Colors.white,
                         margin: EdgeInsets.all(3.0),
                         child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
@@ -140,8 +149,7 @@ class _HomePageState extends State<HomePage> {
                                 padding: EdgeInsets.all(5.0),
                                 child: Text(relics[index]['name'],
                                     style: new TextStyle(
-                                        fontSize: 20.0,
-                                        color: Colors.deepOrangeAccent)),
+                                        fontSize: 20.0, color: Colors.black)),
                               ),
                               Container(
                                   padding: EdgeInsets.all(5.0),
@@ -154,6 +162,6 @@ class _HomePageState extends State<HomePage> {
                                           fontStyle: FontStyle.italic)))
                             ]));
                   })
-            ])));
+            ]])));
   }
 }
